@@ -1,1 +1,2 @@
-# British-Airways-Dashboard-
+# British-Airways-Dashboard
+I created an interactive Tableau dashboard that analyzes British Airways' ratings from 2016 to 2023. The dashboard includes various elements and ratings such as passenger comfort, seating arrangements, delays, and more. This visualization allows stakeholders to explore trends over time and identify areas for improvement, enhancing decision-making processes with comprehensive and real-time insights.
